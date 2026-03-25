@@ -1,0 +1,14 @@
+﻿Date:,24/03/2026
+"Start Time:",01:18:33
+"Unix Start Time:",1774300713
+Duration:,580
+"Num Players:",2
+"Num Periods:",1
+"Num Parameters:",36
+"Logo Path:",https://clprototype.s3.amazonaws.com//titan/upload/file/alt/BmtdGicjQQFwqYM8rbDMA024GGf4QHXNcad0ZRuo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWE24RTRBE46FX3JB%2F20260325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260325T152627Z&X-Amz-SignedHeaders=host&X-Amz-Expires=-1773847587&X-Amz-Signature=988755d85f008ac46248c5ec639f8d8050746dd74c4843454d4b670a60a26934
+,
+"Player Name","Period Name","Period Number","Average Duration (Session)","Average Distance (Session)","Average Player Load (Session)","Maximum Velocity","Max Vel (% Max)","Meterage Per Minute","Player Load Per Minute","Velocity Work/Rest Ratio","IMA Impacts Band 2 Average Count (Session)","Maximum Heart Rate","Avg Heart Rate","Max HR (% Max)","Avg HR (% Max)","Heart Rate Band 1 Average Duration (Session)","Heart Rate Band 2 Average Duration (Session)","Heart Rate Band 3 Average Duration (Session)","Heart Rate Band 4 Average Duration (Session)","Heart Rate Band 5 Average Duration (Session)","Heart Rate Band 6 Average Duration (Session)","Velocity Band 1 Average Distance (Session)","Velocity Band 2 Average Distance (Session)","Velocity Band 3 Average Distance (Session)","Velocity Band 4 Average Distance (Session)","Velocity Band 5 Average Distance (Session)","Velocity Band 6 Average Distance (Session)","Accel + Decel Efforts","Accel + Decel Efforts Per Minute","Heart Rate Exertion","Red Zone",Energy,"High Metabolic Load Distance","HS Distance","HS Dist Per Min","HS Efforts","Sprint Dist Per Min","Sprint Efforts","Athlete Tags","Activity Tags","Game Tags","Athlete Participation Tags","Period Tags",
+"Sobhi EL Mabouk",Session,0,00:09:30,0,1.22,0,0,0,0.13,0,0,0,0,0,0,00:09:29,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00,0,0,0,0,0,0,0,0,9.5,0,0,0,0,0,0,0,0,,,,,
+"Aziz Ki",Session,0,00:09:40,0,1.27,0,0,0,0.13,0,0,0,0,0,0,00:09:38,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00,0,0,0,0,0,0,0,0,9.65,0,0,0,0,0,0,0,0,,,,,
+"Sobhi EL Mabouk",AutoCreatedPeriod,1,00:09:30,0,1.22,0,0,0,0.13,0,0,0,0,0,0,00:09:29,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00,0,0,0,0,0,0,0,0,9.5,0,0,0,0,0,0,0,0,,,,,,
+"Aziz Ki",AutoCreatedPeriod,1,00:09:40,0,1.27,0,0,0,0.13,0,0,0,0,0,0,00:09:38,00:00:00,00:00:00,00:00:00,00:00:00,00:00:00,0,0,0,0,0,0,0,0,9.65,0,0,0,0,0,0,0,0,,,,,,
